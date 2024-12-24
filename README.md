@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kar3keyan
+# 👋 Hi, I’m @karthikeyan
 
 Welcome to my GitHub profile! I'm a passionate developer who loves working on innovative projects and solving problems through code.
 
